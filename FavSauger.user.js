@@ -9,9 +9,6 @@
     // @grant        unsafeWindow
     // @run-at       document-idle
     // ==/UserScript==
-    
-    (function() {
-
             var userHasScrolled = false;
             unsafeWindow.onscroll = function(e) {
                 userHasScrolled = true;
@@ -47,6 +44,3 @@
                     alert("Du Schlingel hast nicht nach ganz unten gescrollt!");
                 }
             }
-        }
-
-    }());
