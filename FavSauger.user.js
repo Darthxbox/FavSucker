@@ -1,7 +1,7 @@
     // ==UserScript==
     // @name         FavSauger
     // @namespace    https://pr0gramm.com/
-    // @version      1.0
+    // @version      1.0.1
     // @description  Generiert Linkliste mit euren Favoriten
     // @author       Sector
     // @include      *pr0gramm.com/user/*/likes
